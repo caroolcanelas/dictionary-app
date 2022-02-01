@@ -1,0 +1,24 @@
+.title {
+  text-align: center;
+  margin: 30px 0;
+  font-family: "Quintessential", cursive;
+  font-size: 75px;
+}
+
+.search-input {
+  display: block;
+  margin: 0 auto;
+  padding: 0 70px 0 70px;
+}
+.search {
+  text-align: center;
+}
+.search-btn {
+  padding: 0 50px 0 50px;
+  background-color: #a2d2ff;
+  color: black;
+  border-color: black;
+}
+.search-btn:hover {
+  background-color: #548cff;
+}
