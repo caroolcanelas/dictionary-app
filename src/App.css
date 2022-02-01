@@ -8,7 +8,6 @@
 .search-input {
   display: block;
   margin: 0 auto;
-  padding: 0 70px 0 70px;
 }
 .search {
   text-align: center;
@@ -21,4 +20,7 @@
 }
 .search-btn:hover {
   background-color: #548cff;
+}
+.open-link {
+  text-align: center;
 }
