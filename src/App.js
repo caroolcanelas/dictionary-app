@@ -9,7 +9,13 @@ export default function App() {
       <div className="open-link">
         <small>
           Coded by Carol Canelas and Open-Sourced in{" "}
-          <a href="https://github.com/caroolcanelas/dictionary-app">GitHub</a>
+          <a
+            href="https://github.com/caroolcanelas/dictionary-app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            GitHub
+          </a>
         </small>
       </div>
     </div>
