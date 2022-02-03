@@ -6,7 +6,7 @@ export default function App() {
     <div className="App">
       <h1 className="title">Dictionary App 📖</h1>
       <Dictionary />
-      <div className="open-link">
+      <div className="open-link mb-3">
         <small>
           Coded by Carol Canelas and Open-Sourced in{" "}
           <a
