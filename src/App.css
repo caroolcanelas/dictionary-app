@@ -14,12 +14,12 @@
 }
 .search-btn {
   padding: 0 50px 0 50px;
-  background-color: #a2d2ff;
-  color: black;
+  background-color: #548cff;
+  color: white;
   border-color: black;
 }
 .search-btn:hover {
-  background-color: #548cff;
+  background-color: #5c7aea;
 }
 .open-link {
   text-align: center;
